@@ -1,0 +1,17 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "SFDG🎲",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "SFDG🎲",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "com.wildfiregame.papua",
+  "description": "Game edukasi simulasi mitigasi kebakaran hutan Papua Barat Daya.",
+  "categories": [
+    "education",
+    "games"
+  ]
+}
